@@ -229,6 +229,8 @@
         </div>
     </div>
 </section>
+<h2 class="d-blue bold fadeInUp" data-wow-delay="0.3s" style="padding-left:600px">Our Services</h2>
+
 <div class="container">
     <div class="row align-items-center">
         <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left">
@@ -241,7 +243,6 @@
 <div class="col-12 col-lg-6 offset-lg-0 col-md-10 offset-md-1">
     <div class="who-we-contant mt-s">
         <div class="promo-section">
-            <h3 class="special-head ">Services</h3>
         </div>
         <h4 class="d-blue fadeInUp" data-wow-delay="0.3s">We will ensure you are getting The Best Service & Accurate Results</h4>
         <p class="fadeInUp" data-wow-delay="0.4s">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at dictum risus, non suscipit arcu. Quisque aliquam posuere tortor, sit amet convallis nunc scelerisque in.</p>
