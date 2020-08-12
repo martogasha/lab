@@ -229,8 +229,9 @@
         </div>
     </div>
 </section>
-<h2 class="d-blue bold fadeInUp" data-wow-delay="0.3s" style="padding-left:600px">Our Services</h2>
-
+<div class="section-heading text-center">
+    <h2 class="d-blue bold fadeInUp" data-wow-delay="0.3s">Description</h2>
+</div>
 <div class="container">
     <div class="row align-items-center">
         <div class="col-12 col-lg-6 offset-lg-0 col-md-12 no-padding-left">
